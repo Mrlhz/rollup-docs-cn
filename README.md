@@ -29,6 +29,8 @@ base: '/rollup-docs-cn/',
 
 ```bash
 # 生成rollup-docs-cn\docs\.vitepress\dist
+```
+```bash
 yarn build:docs
 ```
 
